@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/material-ui-grid/static/css/main.2a3af2b2.chunk.css",
+    "main.js": "/material-ui-grid/static/js/main.7d7c0a20.chunk.js",
+    "main.js.map": "/material-ui-grid/static/js/main.7d7c0a20.chunk.js.map",
+    "runtime-main.js": "/material-ui-grid/static/js/runtime-main.e24099f4.js",
+    "runtime-main.js.map": "/material-ui-grid/static/js/runtime-main.e24099f4.js.map",
+    "static/js/2.1ff99e29.chunk.js": "/material-ui-grid/static/js/2.1ff99e29.chunk.js",
+    "static/js/2.1ff99e29.chunk.js.map": "/material-ui-grid/static/js/2.1ff99e29.chunk.js.map",
+    "index.html": "/material-ui-grid/index.html",
+    "precache-manifest.b6c7a9b48c7316428ebfbdd85f0eee4c.js": "/material-ui-grid/precache-manifest.b6c7a9b48c7316428ebfbdd85f0eee4c.js",
+    "service-worker.js": "/material-ui-grid/service-worker.js",
+    "static/css/main.2a3af2b2.chunk.css.map": "/material-ui-grid/static/css/main.2a3af2b2.chunk.css.map",
+    "static/js/2.1ff99e29.chunk.js.LICENSE.txt": "/material-ui-grid/static/js/2.1ff99e29.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/material-ui-grid/static/media/dark-mosaic.ef086065.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24099f4.js",
+    "static/js/2.1ff99e29.chunk.js",
+    "static/css/main.2a3af2b2.chunk.css",
+    "static/js/main.7d7c0a20.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,QAAS,CACT,qHAEF","file":"main.2a3af2b2.chunk.css","sourcesContent":["body {\n  height: 100vh;\n  margin: 0;\n  background-image: url(\"./images/dark-mosaic.png\"),\n    linear-gradient(180deg, #0045e9 0%, #80d0c7 100%);\n}\n"]}
